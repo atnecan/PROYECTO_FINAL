@@ -15,24 +15,23 @@ Construir un dashboard en Power BI que permita:
 
 ---
 
-## 🗂️ Estructura del repositorio
+## 📁 Estructura del repositorio
 
-PROYECTO_FINAL_ROSSMANN/
-│
-├── README.md
-├── .gitignore
-│
-├── data/
-│ ├── rossmann_final.csv
-│ ├── store.csv
-│ ├── tienda.csv
-│ └── ...
-│
-├── dashboard/
-│ └── proyecto_final_rossmann.pbix
-│
-├── docs/
-│ └── Informe_proyecto_final.docx
+PROYECTO_FINAL/
+├── 📁 DATOS/
+│ └── rossmann_final.csv
+├── 📁 DASHBOARD/
+│ ├── ProyectoFinal.pbix
+│ ├── Informe_final.pdf
+│ └── 📁 capturas/
+├── ProyectoFinal.ipynb
+├── limpieza_de_datos.py
+├── carga_de_datos.py
+├── fusión_de_datos.py
+├── eda.py
+├── principal.py
+├── Proyecto Final.docx
+└── LÉAME.md
 
 
 ---
