@@ -17,6 +17,9 @@ Construir un dashboard en Power BI que permita:
 
 ## 📁 Estructura del repositorio
 
+La estructura de carpetas del proyecto es la siguiente:
+
+
 ```bash
 PROYECTO_FINAL/
 ├── 📁 DATOS/
@@ -33,7 +36,7 @@ PROYECTO_FINAL/
 ├── principal.py
 ├── Proyecto Final.docx
 └── LÉAME.md
-
+```
 
 ---
 
@@ -125,3 +128,8 @@ Incluido en `/docs/Informe_proyecto_final.docx`, se detalla:
 ## 📝 Licencia
 
 Proyecto con fines educativos.
+
+---
+
+📈 *Proyecto presentado como entrega final del Máster en Data Analytics & IA Developer – ThePower Business School.*
+
