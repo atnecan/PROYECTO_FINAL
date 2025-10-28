@@ -17,13 +17,14 @@ Construir un dashboard en Power BI que permita:
 
 ## 📁 Estructura del repositorio
 
+```bash
 PROYECTO_FINAL/
 ├── 📁 DATOS/
-│ └── rossmann_final.csv
+│   └── rossmann_final.csv
 ├── 📁 DASHBOARD/
-│ ├── ProyectoFinal.pbix
-│ ├── Informe_final.pdf
-│ └── 📁 capturas/
+│   ├── ProyectoFinal.pbix
+│   ├── Informe_final.pdf
+│   └── 📁 capturas/
 ├── ProyectoFinal.ipynb
 ├── limpieza_de_datos.py
 ├── carga_de_datos.py
